@@ -99,8 +99,8 @@ if (GPT_RAM > Brain_RAM) {
       - 스마트폰 AR 앱 + IoT 연동 <br> 카메라와 센서를 통해 사물을 인식하고 관련 정보를 화면에 덧씌움 <br> 예: 냉장고 속 재료 인식 후 유통기한 알림, 건물 인식 후 역사 정보 표시 <br> 다양한 일상 영역에서 현실과 디지털을 연결하는 방식으로 활용
 
 ## 3주차 활동
-  - IMAGES
-    - ![image_1](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/ChatGPT%20Image%202025%EB%85%84%2010%EC%9B%94%2010%EC%9D%BC%20%EC%98%A4%ED%9B%84%2003_33_11.png)
+  - IMAGE_1
+    ![image_1](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/ChatGPT%20Image%202025%EB%85%84%2010%EC%9B%94%2010%EC%9D%BC%20%EC%98%A4%ED%9B%84%2003_33_11.png)
     - **상황 요약**  
 	  	- 하늘에는 드론 택시가 이동하고, 지상에는 자율주행 차량이 운행되는 도시 풍경.  
 		- 실내에서는 홀로그램 형태의 AI 비서가 인간과 상호작용.  
@@ -111,7 +111,8 @@ if (GPT_RAM > Brain_RAM) {
 		- 🏗️ **3D 프린팅 건축 기술** – 자동화된 건축 공정, 자재 절감, 탄소 배출 최소화  
 		- 🤖 **로봇 보조 시스템** – 건설 현장 안전 향상 및 정밀 시공 지원  
 		- 🌞 **재생에너지 인프라** – 태양광, 풍력 발전 기반의 지속 가능한 도시 구조 
-    - ![image_2](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/ChatGPT%20Image%202025%EB%85%84%2010%EC%9B%94%2010%EC%9D%BC%20%EC%98%A4%ED%9B%84%2003_29_53.png)
+  - IMAGE_2
+    ![image_2](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/ChatGPT%20Image%202025%EB%85%84%2010%EC%9B%94%2010%EC%9D%BC%20%EC%98%A4%ED%9B%84%2003_29_53.png)
     - **상황 요약**  
 		- 3D 프린터로 실제 구조물을 짓는 건축 장면.  
 		- 도심 중앙에 대형 홀로그램 인물이 등장해 광고·정보를 표시.
@@ -121,7 +122,8 @@ if (GPT_RAM > Brain_RAM) {
 		- 💡 **홀로그램 디스플레이** – 대형 3D 영상 기반 광고·정보 시스템  
 		- ⚡ **스마트 에너지 관리** – 태양광·풍력 에너지 통합 운영  
 		- 🚗 **AI 교통 제어 시스템** – 자율주행·전기차 중심의 도시 교통망 
-    ![image_3](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/ChatGPT%20Image%202025%EB%85%84%2010%EC%9B%94%2010%EC%9D%BC%20%EC%98%A4%ED%9B%84%2003_27_35.png)
+  - IMAGE_3
+    [image_3](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/ChatGPT%20Image%202025%EB%85%84%2010%EC%9B%94%2010%EC%9D%BC%20%EC%98%A4%ED%9B%84%2003_27_35.png)
     - **상황 요약**  
 		- 왼쪽: 드론 택시와 자율주행 차량이 함께 도심을 누비는 장면.  
 		- 오른쪽: 스마트 미러(AR)를 통해 가상 피팅을 하고, AI 비서와 로봇이 생활을 보조.
