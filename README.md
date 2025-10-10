@@ -123,7 +123,7 @@ if (GPT_RAM > Brain_RAM) {
 		- ⚡ **스마트 에너지 관리** – 태양광·풍력 에너지 통합 운영  
 		- 🚗 **AI 교통 제어 시스템** – 자율주행·전기차 중심의 도시 교통망 
   - IMAGE_3
-    [image_3](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/ChatGPT%20Image%202025%EB%85%84%2010%EC%9B%94%2010%EC%9D%BC%20%EC%98%A4%ED%9B%84%2003_27_35.png)
+    ![image_3](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/ChatGPT%20Image%202025%EB%85%84%2010%EC%9B%94%2010%EC%9D%BC%20%EC%98%A4%ED%9B%84%2003_27_35.png)
     - **상황 요약**  
 		- 왼쪽: 드론 택시와 자율주행 차량이 함께 도심을 누비는 장면.  
 		- 오른쪽: 스마트 미러(AR)를 통해 가상 피팅을 하고, AI 비서와 로봇이 생활을 보조.
