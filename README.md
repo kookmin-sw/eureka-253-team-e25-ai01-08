@@ -100,7 +100,7 @@ if (GPT_RAM > Brain_RAM) {
 
 ## 3주차 활동
   - IMAGE
-    ![image_1](./ChatGPT Image 2025년 10월 10일 오후 03_33_11.png)
+    ![image_1](./ChatGPT%Image%2025년%10월%10일%오후%03_33_11.png)
 
 
 ## 3️⃣ 한학기 동안의 활동 내역 
