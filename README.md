@@ -102,6 +102,7 @@ if (GPT_RAM > Brain_RAM) {
   - IMAGES
     ![image_1](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/ChatGPT%20Image%202025%EB%85%84%2010%EC%9B%94%2010%EC%9D%BC%20%EC%98%A4%ED%9B%84%2003_33_11.png)
     ![image_2]
+    ![image_3]
 
 
 ## 3️⃣ 한학기 동안의 활동 내역 
