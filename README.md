@@ -99,8 +99,9 @@ if (GPT_RAM > Brain_RAM) {
       - 스마트폰 AR 앱 + IoT 연동 <br> 카메라와 센서를 통해 사물을 인식하고 관련 정보를 화면에 덧씌움 <br> 예: 냉장고 속 재료 인식 후 유통기한 알림, 건물 인식 후 역사 정보 표시 <br> 다양한 일상 영역에서 현실과 디지털을 연결하는 방식으로 활용
 
 ## 3주차 활동
-  - IMAGE
+  - IMAGES
     ![image_1](https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/ChatGPT%20Image%202025%EB%85%84%2010%EC%9B%94%2010%EC%9D%BC%20%EC%98%A4%ED%9B%84%2003_33_11.png)
+    ![image_2]
 
 
 ## 3️⃣ 한학기 동안의 활동 내역 
