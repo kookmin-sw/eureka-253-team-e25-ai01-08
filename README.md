@@ -27,7 +27,7 @@ if (GPT_RAM > Brain_RAM) {
 
 ***
 
-![image_1]([https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/8%ED%8C%80_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg])
+![포스터]([https://github.com/kookmin-sw/eureka-253-team-e25-ai01-08/blob/main/8%ED%8C%80_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg])
 
 ## 1주차 활동
 
